@@ -42,7 +42,7 @@ The project involved comparing the accuracy and efficiency of different models, 
 - Enhancing preprocessing with more NLP techniques.
 
 ## Contributors
-- **[Your Name]** - Project Developer
+- **Jas Makhija** - Project Developer
 
 ## License
 This project is licensed under the **MIT License**.
